@@ -1,0 +1,30 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion_y_raiz_cudrada.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.vbproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion_y_raiz_cudrada.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\bin\Debug\Multiplicacion y raiz cudrada.exe.config
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\Multiplicacion y raiz cudrada\Multiplicacion y raiz cudrada\obj\Debug\Multiplicacion y raiz cudrada.pdb
